@@ -1,4 +1,4 @@
-**# Object detection on video stream**
+# Object detection on video stream
 
 This code performs real-time object detection on a video stream using OpenCV and a pre-trained deep learning model. The video stream can be a file or the default camera (usually the webcam).
 
